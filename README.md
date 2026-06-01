@@ -51,8 +51,7 @@ Contains warehouse inventory information.
 
 ## Dashboard Preview
 
-
-![ERP Dashboard](erp analytics project/screenshots/dashboard.png))
+![ERP Dashboard](screenshots/dashboard.png)
 
 ---
 
