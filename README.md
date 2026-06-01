@@ -52,7 +52,7 @@ Contains warehouse inventory information.
 ## Dashboard Preview
 
 
-![ERP Dashboard](Dashboard/dashboard.png)
+![ERP Dashboard](Screenshots/dashboard.png)
 
 ---
 
