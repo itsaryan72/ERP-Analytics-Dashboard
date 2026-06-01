@@ -1,0 +1,11 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Selling_Price,Supplier,Stock_Unit,Launch_Year
+P101,Plastic Chair,Furniture,Chair,700,1200,ABC Plastics,Pieces,2022
+P102,Office Table,Furniture,Table,2500,4200,XYZ Industries,Pieces,2021
+P103,Storage Box,Storage,Container,120,250,SafePack Ltd,Pieces,2023
+P104,Water Tank,Industrial,Tank,3500,5200,Aqua Solutions,Pieces,2020
+P105,Plastic Drum,Industrial,Container,900,1500,ABC Plastics,Pieces,2021
+P106,Study Desk,Furniture,Desk,1800,3200,ModernWorks,Pieces,2022
+P107,Tool Crate,Storage,Toolbox,450,800,SafePack Ltd,Pieces,2023
+P108,Garden Chair,Furniture,Chair,650,1100,OutdoorPlus,Pieces,2022
+P109,Chemical Container,Industrial,Container,1400,2400,ChemTech Ltd,Pieces,2021
+P110,Kids Table,Furniture,Table,900,1600,XYZ Industries,Pieces,2023
